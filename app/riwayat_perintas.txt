@@ -1,0 +1,10 @@
+   86  history | tail -n 10 | tac > riwayat_perintas.txt
+   85  cd ~/uts_platform/app
+   84  mkdir -p ~/uts_platform/{app,config,logs,screenshots}
+   83  clear
+   82  yyuu
+   81  docker-compose.yml (~/uts_platform/docker-compose.yml)
+   80  clear
+   79  eof\
+   78  cls
+   77  Clear

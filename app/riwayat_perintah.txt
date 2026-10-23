@@ -1,0 +1,10 @@
+  131  history 10  | tail -n 10 | tac > riwayat_perintah.txt
+  130  cd ~/uts_platform/app
+  129  mkdir -p ~/uts_platform/{app,config,logs,screenshot}
+  128  clear
+  127  docker ps
+  126  docker compose up -d --build 
+  125  nano app/Dockerfile
+  124  nano docker-compose.yml
+  123  cd ~/uts_platform 
+  122  ls -la app/
